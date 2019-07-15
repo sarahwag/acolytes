@@ -368,11 +368,12 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
 
 #chapter {
 	width: 80%;
-	background: rgba(255,255,255,.8);
+	background: rgba(255,255,255,.85);
 	border-radius: 50px;
 	backdrop-filter: blur(7px);
 	-moz-backdrop-filter: blur(7px);
 	-webkit-backdrop-filter: blur(7px);
+	padding-bottom: .5rem !important;
 }
 
 #body img, #body .video-container {
