@@ -8,7 +8,6 @@ weight: 1
 
 ##### Guiding Questions:
 
-1. Who are the people defending SJD?
-2. What are the virtues of an SJD acolyte?
-3. How can we give SJD acolytes a way out?
-4. What does an SJMD conversation feel like?
+1. What are the virtues of the defenders of SJD?
+2. How can we give SJD acolytes a way out?
+3. What does an SJMD conversation feel like?

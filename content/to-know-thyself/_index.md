@@ -2,7 +2,6 @@
 title: "To Know Thyself"
 chapter: true
 weight: 1
-draft: true
 ---
 ### The Acolytes
 # To Know Thyself

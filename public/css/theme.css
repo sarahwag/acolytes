@@ -360,20 +360,6 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     margin-left: 300px;
 	z-index: 1000;
 	background: white;
-	background-image: url('../images/beach-ball-loop.gif'); /* SUMMER BREAK */
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: bottom center;
-}
-
-#chapter {
-	width: 80%;
-	background: rgba(255,255,255,.85);
-	border-radius: 50px;
-	backdrop-filter: blur(7px);
-	-moz-backdrop-filter: blur(7px);
-	-webkit-backdrop-filter: blur(7px);
-	padding-bottom: .5rem !important;
 }
 
 #body img, #body .video-container {
