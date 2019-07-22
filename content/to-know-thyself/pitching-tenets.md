@@ -7,4 +7,4 @@ In [Barks Likes a Dogma](https://barkslikeadogma.course.sjmd.space) we defined S
 
 > The set of beliefs, stances, and acceptable actions laid down by the authorities within the social justice movement that we hold as incontrovertibly true
 
-**Thing to keep in mind**: incontrovertibly true means we can't question the dogma, or its tenets, or risk being outcast, canceled, "them"-ed -- and losing whatever semblance of community we had.
+**Thing to keep in mind**: incontrovertibly true means we can't question the dogma, or its tenets, and if we do we risk being outcast, canceled, "them"-ed -- losing whatever semblance of community we had.
