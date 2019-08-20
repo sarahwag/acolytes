@@ -10,4 +10,4 @@ weight: 1
 
 1. What are the virtues of the defenders of SJD?
 2. How can we give SJD acolytes a way out?
-3. What does an SJMD conversation feel like?
+3. What will an SJMD conversation feel like?
