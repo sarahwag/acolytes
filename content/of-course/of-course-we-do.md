@@ -7,7 +7,7 @@ We, not they. Us, not them.
 
 And of course we support, and have supported, social justice dogma -- we're likely still figuring out all the ways, as these concepts start to form a new lens through which we see our efforts, viewpoints, stances.
 
-Here's something one of our fellow community members [replied](https://cornerstones.course.sjmd.space/problem-with-wokeness/people-of-sjd/) in this vein:
+Here's something one of our fellow community members [replied](https://3.course.sjmd.space/problem-with-wokeness/people-of-sjd/) in this vein:
 
 > "When I'm in sync with the goals of a movement and the means to achieve them, dogmas come in handy to ease the path. It avoids discussion and arguments. And exactly this is at the same time a massive drawback."
 

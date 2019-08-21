@@ -3,7 +3,7 @@ title: "Pitching Tenets"
 weight: 4
 ---
 
-In [Barks Likes a Dogma](https://barkslikeadogma.course.sjmd.space) we defined SJD using the following definition:
+In [Barks Likes a Dogma](https://2.course.sjmd.space) we defined SJD using the following definition:
 
 > The set of beliefs, stances, and acceptable actions laid down by the authorities within the social justice movement that we hold as incontrovertibly true
 

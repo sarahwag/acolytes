@@ -3,7 +3,7 @@ title: "Really Real Community"
 weight: 3
 ---
 
-Back in [Dot-Com-Munity](https://dotcommunity.course.sjmd.space) we said:
+Back in [Dot-Com-Munity](https://1.course.sjmd.space) we said:
 
 >  We’re using “real community” to mean, in short, “connection + interdependence.”
 

@@ -14,4 +14,8 @@ This brings us back to Charles Eisenstein (remember him?), who, in his book [_Th
 
 - {{% icon read %}} [CHAPTER: Psychopathy / Charles Eisenstein](https://charleseisenstein.org/books/the-more-beautiful-world-our-hearts-know-is-possible/eng/psychopathy/)
 
-**What connections do you see between the Hidden Tribes study, Kathryn Schulz's TED Talk, and Eisenstein's chapter on psychopathy? How do you see these ideas relating to people supporting, enacting, and defending SJD?**
+What do you think about all this?
+
+```
+Discuss with your Accountabilibuddy: What connections do you see between the Hidden Tribes study, Kathryn Schulz's TED Talk, and Eisenstein's chapter on psychopathy? How do you see these ideas relating to people supporting, enacting, and defending SJD?
+```
