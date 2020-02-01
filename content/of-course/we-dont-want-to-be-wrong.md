@@ -16,4 +16,4 @@ Or "do" wrong.
 
 Let's let Kathryn Schulz show us why we're wrong about being wrong:
 
-- {{% icon watch %}}[TED: Kathryn Schulz](https://www.ted.com/talks/kathryn_schulz_on_being_wrong) [(Transcript)](https://www.ted.com/talks/kathryn_schulz_on_being_wrong/transcript?language=en) (You can jump to 9:55 if you want to start right at the part that we think will hit you the hardest)
+- {{% icon watch %}}[TED: Kathryn Schulz](https://www.ted.com/talks/kathryn_schulz_on_being_wrong) [(Transcript)](https://www.ted.com/talks/kathryn_schulz_on_being_wrong/transcript?language=en) (You can jump to 9:55 if you want to start right at the part that we think will hit you the hardest) <- this link is broken
